@@ -1,4 +1,5 @@
 Git Practice Notes:
 
 - Write notes here during each exercise.
-- Use this file to try `git diff`, `git add -p`, etc.
+- Use this file to try `git diff`, `git add -p`, etc
+I changed notes.txt can you seee me when using  git diff? If you commited you can
