@@ -2,5 +2,5 @@ Git Practice Notes:
 
 - Write notes here during each exercise.
 - Use this file to try `git diff`, `git add -p`, etc
-I changed notes.txt can you seee me when using  g
+I changed notes.txt can you seee me when using  g I am long I am longI am longI am longI am longI am longI am longI am long
 I was written in branch_one
