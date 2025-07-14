@@ -3,4 +3,4 @@ Git Practice Notes:
 - Write notes here during each exercise.
 - Use this file to try `git diff`, `git add -p`, etc
 I changed notes.txt can you seee me when using  g
-todays 13.07
+I was written in branch_one
