@@ -2,4 +2,4 @@ Git Practice Notes:
 
 - Write notes here during each exercise.
 - Use this file to try `git diff`, `git add -p`, etc
-practices makes better
+practices makes even better
