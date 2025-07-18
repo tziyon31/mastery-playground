@@ -2,5 +2,6 @@ Git Practice Notes:
 
 - Write notes here during each exercise.
 - Use this file to try `git diff`, `git add -p`, etc
+
 Your doing well grasshopper
-In all branches
+In all branche
