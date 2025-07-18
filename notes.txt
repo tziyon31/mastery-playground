@@ -2,8 +2,15 @@ Git Practice Notes:
 
 - Write notes here during each exercise.
 - Use this file to try `git diff`, `git add -p`, etc
+<<<<<<< HEAD
 
 
 Your doing well grasshopper
 In all branche
 
+=======
+Practive make even way way better
+practicee
+practicaa
+practicoo
+>>>>>>> 6d682c7 (practice3)
